@@ -7,7 +7,7 @@ This mod is based on a similar modification for MineColonies: [MineColonies Hord
 
 ## Author
 
-Discord server: [Join the author's Discord](https://discord.gg/GxGHskDRW2)
+Discord server: [Join the author's Discord](https://discord.gg/7S6gpYDFxa)
 
 ---
 
@@ -21,4 +21,4 @@ Discord server: [Join the author's Discord](https://discord.gg/GxGHskDRW2)
 
 ## Автор
 
-Дискорд-сервер автора: [присоединиться](https://discord.gg/GxGHskDRW2)
+Дискорд-сервер автора: [присоединиться](https://discord.gg/7S6gpYDFxa)
