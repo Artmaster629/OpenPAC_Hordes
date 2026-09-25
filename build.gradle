@@ -29,6 +29,10 @@ sourceSets.main.resources {
 
 repositories {
     // Add here additional repositories if required by some of the dependencies below.
+    maven {
+        name = "CurseMaven"
+        url = "https://cursemaven.com"
+    }
 }
 
 base {
@@ -137,6 +141,19 @@ dependencies {
     // For more info:
     // http://www.gradle.org/docs/current/userguide/artifact_dependencies_tutorial.html
     // http://www.gradle.org/docs/current/userguide/dependency_management.html
+
+    implementation "curse.maven:open-parties-and-claims-636608:6859716"
+
+    //world map
+    implementation "curse.maven:xaeros-worldmap-317780:6778114"
+    //minimap
+    implementation "curse.maven:xaeros-minimap-263420:6778051"
+
+
+    implementation "curse.maven:the-hordes-485779:8846595"
+    implementation "curse.maven:atlas-lib-463826:5449009"
+
+
 }
 
 // This block of code expands all declared replace properties in the specified resource targets.
