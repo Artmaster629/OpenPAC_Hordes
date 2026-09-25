@@ -15,8 +15,7 @@ Discord server: [Join the author's Discord](https://discord.gg/GxGHskDRW2)
 
 ## Информация о моде
 
-Мод на Minecraft, добавляющий совместимость между **The Hordes** и **модами на карту от Xaero**.
-Мод предотвращает появление орд **The Hordes** внутри территорий, занятых чанками **Open Parties and Claims**. Если The Hordes выбирает точку появления орды внутри защищённой территории, точка спавна смещается за пределы claim.
+Мод на Minecraft, добавляющий совместимость между The Hordes и модами на карту от Xaero. Мод предотвращает появление орд The Hordes внутри территорий, занятых чанками Open Parties and Claims. Если The Hordes выбирает точку появления орды внутри территории OpAc, точка спавна смещается за её пределы.
 
 Мод основан на похожей модификации для MineColonies: [MineColonies Hordes](https://github.com/gisellevonbingen-Minecraft/MineColonies_Hordes)
 
