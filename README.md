@@ -1,14 +1,25 @@
-Mod info
-=========
-Repository of Minecraft mod that adds compatibility between The Hordes and Xaero's map mods by preventing to spawn hordes in claims.
-=======
-The mod is based on another similar modification, but for MineColonies: https://github.com/gisellevonbingen-Minecraft/MineColonies_Hordes
-======
-Mod Author's Discord: https://discord.gg/GxGHskDRW2
+# Mod info
 
+A Minecraft mod that adds compatibility between **The Hordes** and **Xaero's map mods** by preventing hordes from spawning inside territories claimed using **Open Parties and Claims**.
+When The Hordes attempts to spawn a horde inside an Open Parties and Claims claim, the spawn position is moved outside the claimed territory.
 
-Репозиторий мода Майнкрафт, который добавляет совместимость между The Hordes и модами на карту от Xaero путём предотвращения спавна монстров орд на территориях Open Parties And Claims.
-======
-Этот мод основан на другой похожей модификации, которая добавляет нечто похожее для MineColonies: https://github.com/gisellevonbingen-Minecraft/MineColonies_Hordes
-======
-Дискорд-сервер автора мода: https://discord.gg/GxGHskDRW2
+This mod is based on a similar modification for MineColonies: [MineColonies Hordes](https://github.com/gisellevonbingen-Minecraft/MineColonies_Hordes)
+
+## Author
+
+Discord server: [Join the author's Discord](https://discord.gg/GxGHskDRW2)
+
+---
+
+# Русский
+
+## Информация о моде
+
+Мод на Minecraft, добавляющий совместимость между **The Hordes** и **модами на карту от Xaero**.
+Мод предотвращает появление орд **The Hordes** внутри территорий, занятых чанками **Open Parties and Claims**. Если The Hordes выбирает точку появления орды внутри защищённой территории, точка спавна смещается за пределы claim.
+
+Мод основан на похожей модификации для MineColonies: [MineColonies Hordes](https://github.com/gisellevonbingen-Minecraft/MineColonies_Hordes)
+
+## Автор
+
+Дискорд-сервер автора: [присоединиться](https://discord.gg/GxGHskDRW2)
